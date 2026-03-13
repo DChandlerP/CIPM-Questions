@@ -1121,4 +1121,504 @@ What should be the PPM's first step when a project involves "Significant merging
 
 ---
 
+## Question 81
+
+> **Case Study 81: Interoperability**
+> IT suggests skipping transformation.
+
+**Why should "Technical Advice" be sought before sharing data where different systems are involved?**
+
+- A) Salary cost.
+- B) Because there is a potential security risk that could result in loss, corruption, or degradation of data.
+- C) Move to Level 1.
+- D) Just-in-Time.
+
+---
+
+## Question 82
+
+> **Case Study 82: K-Anonymity**
+> Research team argues Anonymization is Encryption.
+
+**What characterizes "Anonymous" data?**
+
+- A) Random identifiers.
+- B) Data that is unlinkable, has no contact info, and utilizes K-Anonymity.
+- C) Top Secret.
+- D) Degaussed.
+
+---
+
+## Question 83
+
+> **Case Study 83: Age-Appropriate Design**
+> PPM insists on Children's Code.
+
+**What is a primary goal of the ICO's Age Appropriate Design Code?**
+
+- A) Gaming Fee.
+- B) Implement GDPR principles specifically in the context of children using digital services.
+- C) Replace COPPA.
+- D) Move to Level 4.
+
+---
+
+## Question 84
+
+> **Case Study 84: Internal Audit**
+> IT argues Audit is "External Entity".
+
+**Why is it good practice to align with the internal audit team?**
+
+- A) Outsource budget.
+- B) Assistance in developing a framework to monitor if policies/controls are working.
+- C) Replace Detective Controls.
+- D) Joint Controller.
+
+---
+
+## Question 85
+
+> **Case Study 85: Intangible Costs**
+> Marketing identifies surge in attrition.
+
+**Which is an example of an "Intangible Cost"?**
+
+- A) Shredding cost.
+- B) Equipment replacement.
+- C) Lost business opportunities and damage to brand equity.
+- D) Salary costs.
+
+---
+
+## Question 86
+
+> **Case Study 86: Assessments vs PIAs**
+> PPM explaining difference.
+
+**What is the primary difference between a Privacy Assessment and a PIA?**
+
+- A) Customer vs Board.
+- B) Privacy Assessment measures broad compliance, while PIA identifies/mitigates risks for a specific project.
+- C) Voluntary vs Required.
+- D) No difference.
+
+---
+
+## Question 87
+
+> **Case Study 87: DLP**
+> IT categorizes DLP as InfoSec.
+
+**How does DLP help a privacy program?**
+
+- A) Replace notices.
+- B) By helping the program meet requirements for implementing security controls to protect personal info.
+- C) Grant Adequacy.
+- D) Calculate R-Squared.
+
+---
+
+## Question 88
+
+> **Case Study 88: Layered Notices**
+> PPM recommends Layered Approach.
+
+**What is an advantage of using a "Layered Approach"?**
+
+- A) Hide Right to Object.
+- B) Provides concise information while meeting full disclosure requirements.
+- C) Move to Ad Hoc.
+- D) Replace Consent.
+
+---
+
+## Question 89
+
+> **Case Study 89: Business Resilience**
+> Board asks for quantitative measurement.
+
+**How is ROI for a privacy function typically measured?**
+
+- A) Social Media messages.
+- B) Through quantitative measurement of benefits (loss prevention) and costs.
+- C) Badges.
+- D) Not possible.
+
+---
+
+## Question 90
+
+> **Case Study 90: CEO Attitude**
+> CEO dismisses breach as "Minor Glitch".
+
+**Why is the CEO's attitude critical?**
+
+- A) Write AV policy.
+- B) It sets the tone; associates are more likely to comply when leaders are committed.
+- C) Lead Tabletop.
+- D) Move to Level 1.
+
+---
+
+## Question 91
+
+> **Case Study 91: Cloud Premise Audits**
+> GlobalStack refuses inspection.
+
+**Why is it difficult to inspect the premises of a "Public Cloud" provider?**
+
+- A) Self-Regulated.
+- B) Logistical reasons and provider is unlikely to permit it.
+- C) Tier 1 violation.
+- D) Forbidden by Protect phase.
+
+---
+
+## Question 92
+
+> **Case Study 92: Software-Defined Privacy**
+> Meetings recorded by unauthorized users.
+
+**What is a risk associated with "Software-Defined Privacy Settings"?**
+
+- A) Grant Adequacy.
+- B) Improper settings potentially allow virtual meetings to be overheard or disrupted.
+- C) Replace AUP.
+- D) Move to Level 5.
+
+---
+
+## Question 93
+
+> **Case Study 93: BIPA**
+> GymConnect uses fingerprints.
+
+**According to BIPA, what must a private entity do before collecting biometric info?**
+
+- A) Charge fee.
+- B) Notify in writing and receive a written release.
+- C) Degauss.
+- D) Move to Level 1.
+
+---
+
+## Question 94
+
+> **Case Study 94: Third-Party Resources**
+> Small firm limited staff.
+
+**How can small firms stay informed?**
+
+- A) Ignore laws.
+- B) Utilize third-party consultancy, automated tools, and free resources.
+- C) Decentralize.
+- D) Deepfakes.
+
+---
+
+## Question 95
+
+> **Case Study 95: Recovering**
+> Board allocates resources to BCP.
+
+**What is a strategic upside of investing in breach preparedness?**
+
+- A) Charge victims.
+- B) Identifies critical gaps in pre-incident phase and reduces exposure.
+- C) Move to Ad Hoc.
+- D) Replace PIA.
+
+---
+
+## Question 96
+
+> **Case Study 96: Data Security**
+> IT argues Privacy is not Security.
+
+**What are the three key attributes of "Information Security"?**
+
+- A) Training, Awareness, Metrics.
+- B) Confidentiality, Integrity, Availability.
+- C) Centralized, Decentralized, Hybrid.
+- D) Ad Hoc, Repeatable, Defined.
+
+---
+
+## Question 97
+
+> **Case Study 97: Employee Policies**
+> CHRO argues reporting will harm culture.
+
+**What should employee policies include?**
+
+- A) Hide errors.
+- B) Instructions on reporting violations or impermissible uses.
+- C) Slogans.
+- D) Degaussing requirements.
+
+---
+
+## Question 98
+
+> **Case Study 98: Transparency Symbols**
+> PPM recommends icons.
+
+**What is a tool mentioned for transparent notices on mobile?**
+
+- A) Degaussing.
+- B) Symbols or icons tested to be meaningful.
+- C) Shredders.
+- D) Implied rules.
+
+---
+
+## Question 99
+
+> **Case Study 99: Noise**
+> Data points do not follow Trend.
+
+**What is the focus of the "Irregular Component" (Noise)?**
+
+- A) Marketing.
+- B) What is left over after trend and cyclical components are accounted for.
+- C) Salary Cost.
+- D) R-Squared.
+
+---
+
+## Question 100
+
+> **Case Study 100: Training ROI**
+> Investment saves money.
+
+**How does an Employee Training Program affect breach cost?**
+
+- A) No effect.
+- B) Saves average of $10.31 per record.
+- C) Increases cost.
+- D) Moves to Level 1.
+
+---
+
+## Question 101
+
+**What is the textbook's definition of "Privacy Program Management"?**
+
+- A) Binary act.
+- B) A structured approach combining several projects into a framework and life cycle.
+- C) Encrypting data.
+- D) FTC rules.
+
+---
+
+## Question 102
+
+**How should "Privacy" be distinguished from "Secrecy"?**
+
+- A) Privacy is dynamic/individual, Secrecy is classification.
+- B) Privacy for individuals, Secrecy for gov.
+- C) No difference.
+- D) Secrecy is technical.
+
+---
+
+## Question 103
+
+**Which series of stages defines the "Privacy Governance Life Cycle"?**
+
+- A) Plan, Do, Check, Act.
+- B) Identify, Protect, Detect...
+- C) Assess, Protect, Sustain, Respond.
+- D) Notice, Choice...
+
+---
+
+## Question 104
+
+**To avoid being seen as a "blocker," a privacy program should align with what?**
+
+- A) IT Budget.
+- B) Business objectives.
+- C) Legal goals only.
+- D) Self-Regulated Model.
+
+---
+
+## Question 105
+
+**The concept of "Accountability" requires:**
+
+- A) No breaches.
+- B) Being able to prove actions taken.
+- C) Encrypting all records.
+- D) Appointing CISO.
+
+---
+
+## Question 106
+
+**Primary advantage of "Hybrid Governance Model"?**
+
+- A) Outsource.
+- B) Maintain common missions while allowing local mandates.
+- C) No CPO.
+- D) Single channel.
+
+---
+
+## Question 107
+
+**Which role focuses on technical implementation of privacy into product design?**
+
+- A) DPO.
+- B) Privacy Analyst.
+- C) Privacy Engineer.
+- D) First Responder.
+
+---
+
+## Question 108
+
+**NIST Privacy Framework parts: Core, Profiles, and...?**
+
+- A) Pillars.
+- B) Tiers.
+- C) Modules.
+- D) Standards.
+
+---
+
+## Question 109
+
+**DPO is mandatory if monitoring is on what scale?**
+
+- A) Small.
+- B) Medium.
+- C) Large scale.
+- D) Global only.
+
+---
+
+## Question 110
+
+**Framework that served as basis for GDPR?**
+
+- A) GAPP.
+- B) OECD Guidelines and Convention 108.
+- C) APEC.
+- D) NIST.
+
+---
+
+## Question 111
+
+**Notify DPAs of breach within how many hours?**
+
+- A) 24.
+- B) 48.
+- C) 72.
+- D) 96.
+
+---
+
+## Question 112
+
+**CCPA requires what link on homepage?**
+
+- A) Email.
+- B) Do Not Sell My Personal Information.
+- C) Vendor list.
+- D) RoPA.
+
+---
+
+## Question 113
+
+**Purpose of Privacy Threshold Analysis (PTA)?**
+
+- A) Determine if full PIA is required.
+- B) Calculate ROI.
+- C) Verify passport.
+- D) Authorize transfer.
+
+---
+
+## Question 114
+
+**PIA specifically used for?**
+
+- A) Salary.
+- B) Risk management tool for specific projects.
+- C) Phishing training.
+- D) Adequacy.
+
+---
+
+## Question 115
+
+**Principle requiring processing limited to necessary purpose?**
+
+- A) Accuracy.
+- B) Storage Limitation.
+- C) Data Minimization.
+- D) Integrity.
+
+---
+
+## Question 116
+
+**PbD principle: privacy built in without user action?**
+
+- A) Proactive.
+- B) Privacy as the Default Setting.
+- C) Visibility.
+- D) Full Functionality.
+
+---
+
+## Question 117
+
+**Attribute ensuring info is protected from unauthorized alteration?**
+
+- A) Confidentiality.
+- B) Integrity.
+- C) Availability.
+- D) Assurance.
+
+---
+
+## Question 118
+
+**Not using Production Data supports which goal?**
+
+- A) Retention.
+- B) Reducing chance of compromise.
+- C) Level 1.
+- D) R-squared.
+
+---
+
+## Question 119
+
+**Primary obligation under GDPR Art 30?**
+
+- A) Appoint CMO.
+- B) Maintain RoPA.
+- C) Encrypt physical docs.
+- D) Notify public.
+
+---
+
+## Question 120
+
+**Definition of Metrics?**
+
+- A) Binary.
+- B) Tools that facilitate decision-making through quantifiable output.
+- C) List of employees.
+- D) Money saved.
+
+---
+
 
