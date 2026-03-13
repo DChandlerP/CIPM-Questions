@@ -277,3 +277,284 @@ According to the U.S. E-Government Act of 2002 requirements, what is the primary
 - B) To determine if the system contains PII and if a full PIA is required.
 - C) To calculate ROI.
 - D) To provide "Just-in-Time" notice.
+
+---
+
+## Question 21
+
+> **CASE STUDY — Case Study 21: Vendor Breach Notification**
+> CloudStore notifies FinSec 96 hours after discovery. FinSec is now facing the 72-hour GDPR window.
+
+According to the roles in incident response and statutory obligations, what is the best first step for FinSec's Privacy Program Manager?
+
+- A) Wait for CloudStore's forensic audit.
+- B) Notify the ICO immediately, documenting the vendor's delay, and coordinate with Legal.
+- C) Instruct CloudStore to handle notifications.
+- D) Terminate the contract immediately.
+
+---
+
+## Question 22
+
+> **CASE STUDY — Case Study 22: Biometric Data**
+> HealthTrack plans to use facial recognition. Illinois' BIPA requires a written release.
+
+In aligning with BIPA and the GDPR's "Special Category" requirements, how should the PPM classify and manage this data?
+
+- A) Classify it as "Technical Log Data."
+- B) Conduct a PTA and DPIA, obtain written consent from users, and establish a clear destruction schedule.
+- C) Only collect the data from users over 21.
+- D) Delegate the responsibility to gym managers.
+
+---
+
+## Question 23
+
+> **CASE STUDY — Case Study 23: ROI Metrics**
+> The Board wants to see how "non-revenue generating" activities protect the bottom line.
+
+According to the guidelines for ROI analysis and reporting to the Board, which metric provides the most compelling evidence of risk mitigation?
+
+- A) The 40% increase in training completion.
+- B) The reduction in potential "class-action lawsuit" settlements and "reputational liability" costs.
+- C) The total number of encryption keys generated.
+- D) The salary savings.
+
+---
+
+## Question 24
+
+> **CASE STUDY — Case Study 24: International Data Transfers**
+> The PPM must decide if "additional safeguards" are needed to satisfy the Data Transfer Impact Assessment (TIA).
+
+Following the "Schrems II" decision, what "additional safeguard" should the PPM prioritize?
+
+- A) Moving to a "Self-Regulated Model."
+- B) Implementing strong encryption where the decryption keys are held exclusively by Paris-Tech in the EU.
+- C) Relying on an "Adequacy Decision."
+- D) Reducing the data retention period to 24 hours.
+
+---
+
+## Question 25
+
+> **CASE STUDY — Case Study 25: Automated DSARs**
+> StyleHub has been targeted by a "Privacy Activist" group sending 2,500 requests.
+
+How should the PPM respond to this deluge while maintaining "operational balance"?
+
+- A) Issue a blanket denial.
+- B) Deploy an automated Privacy Technology Tool to verify identities and process erasure.
+- C) Charge a $20 "verification fee."
+- D) Transfer the responsibility to Marketing.
+
+---
+
+## Question 26
+
+> **CASE STUDY — Case Study 26: M&A and Data Sharing**
+> Alpha-Data has been sharing customer location data with brokers without explicit consent.
+
+According to the checkpoints for M&A, what must Z-Corp do before using Alpha-Data's customer records?
+
+- A) Nothing; "M&A" overrides privacy notice.
+- B) Conduct an audit of sharing practices, inform data subjects, and establish a new lawful basis.
+- C) Immediately "Anonymize" the location data.
+- D) Terminate the contracts.
+
+---
+
+## Question 27
+
+> **CASE STUDY — Case Study 27: Privacy by Design**
+> The product manager wants to "auto-populate" the diagnostic report into the patient's Social Media profile.
+
+Applying Cavoukian's 7 Foundational Principles of PbD, what is the most compliant design choice?
+
+- A) Enable the auto-share by default.
+- B) Disable the auto-share feature by default and require a proactive, informed "Opt-in."
+- C) Use "K-Anonymity."
+- D) Implement BCRs.
+
+---
+
+## Question 28
+
+> **CASE STUDY — Case Study 28: Internal Audit Failure**
+> The PPM needs to move the organization from a "Repeatable" to a "Defined" maturity level.
+
+Which action plan is most characteristic of a transition to "Maturity Level 3" (Defined)?
+
+- A) Hiring an outside consultant.
+- B) Formally documenting the AUP signature process, implementing a mandatory banner, and creating a policy.
+- C) Adding Encryption.
+- D) Deleting the AUP entirely.
+
+---
+
+## Question 29
+
+> **CASE STUDY — Case Study 29: Attorney-Client Privilege**
+> The CEO wants to lead the response team. The PPM recommends Outside Legal Counsel.
+
+Why is it critical for the investigation to be directed by Legal Counsel in this scenario?
+
+- A) To ensure the CISO does not report failures.
+- B) To protect the investigation and work products under attorney-client privilege.
+- C) Because only legal counsel can declare a breach.
+- D) To allow the CEO to focus on brand recovery.
+
+---
+
+## Question 30
+
+> **CASE STUDY — Case Study 30: Right to Portability**
+> Fin-App provides data as XLS. The competitor demands JSON or XML.
+
+According to the guidelines on the "Right to Data Portability," does Fin-App's action satisfy the request?
+
+- A) Yes, because XLS is "commonly used."
+- B) No, the controller is "encouraged to develop interoperable formats" and must provide data in a structured, machine-readable format.
+- C) Yes, if they charge a fee.
+- D) No, because "Risk Scores" are IP.
+
+---
+
+## Question 31
+
+> **CASE STUDY — Case Study 31: AI-Ethics**
+> The AI is penalizing employees for "non-standard movements" required for safety.
+
+Which AI privacy guideline should the PPM implement to address the risk of "unfair algorithmic results"?
+
+- A) Anonymize the employee data.
+- B) Ensure the entity accountable for the decision is identifiable and that the decision-making process is "explicable, reproducible, and auditable."
+- C) Only use the AI in China.
+- D) Increase the "Volume of Data."
+
+---
+
+## Question 32
+
+> **CASE STUDY — Case Study 32: Privacy Framework**
+> They want a framework using a "Core, Profiles, and Tiers" structure.
+
+Which framework is the PPM describing, and how does it benefit the organization?
+
+- A) The GAPP framework.
+- B) The NIST Privacy Framework, because it is a voluntary, risk-based tool agnostic to technology.
+- C) The APEC Privacy Framework.
+- D) ISO/IEC 27001.
+
+---
+
+## Question 33
+
+> **CASE STUDY — Case Study 33: Privacy Threshold Analysis (PTA)**
+> The PTA reveals that the system will share the license plate data with "Local Law Enforcement."
+
+According to the U.S. E-Government Act of 2002, what is the primary objective of this PTA?
+
+- A) To determine if the system contains PII and if a full PIA is required.
+- B) To automatically grant "Safe Harbor."
+- C) To provide "Just-in-Time" notice.
+- D) To calculate "Risk Appetite."
+
+---
+
+## Question 34
+
+> **CASE STUDY — Case Study 34: First Responder Role**
+> The IT specialist immediately "isolates" the affected server.
+
+According to the "Respond" phase guidelines, what is the First Responder's primary responsibility?
+
+- A) Notifying the media.
+- B) Following the specific "Containment and Preservation" instructions.
+- C) Drafting the "Remediation Plan."
+- D) Determining the "Maturity Level."
+
+---
+
+## Question 35
+
+> **CASE STUDY — Case Study 35: Child Privacy**
+> Italy has set the Age of Consent at 14.
+
+How should the PPM handle the Italian expansion to ensure "Multijurisdictional Compliance"?
+
+- A) Maintain the threshold at 13.
+- B) Implement a jurisdiction-aware age gate that requires parental consent for Italian users under 14.
+- C) Set the age to 16 globally.
+- D) Block all Italian IP addresses.
+
+---
+
+## Question 36
+
+> **CASE STUDY — Case Study 36: Training Engagement**
+> They decide to replace the standard video with "Lunch and Learn" sessions and "Escape Room" challenges.
+
+According to the "Sustain" phase best practices, why is this "Multipronged" approach more effective?
+
+- A) It moves the program to Level 5.
+- B) It leverages "Curiosity" and moves beyond "checking a box" to shaping expected behaviors.
+- C) Escape Rooms are mandated by NIST.
+- D) It reduces Salary Cost.
+
+---
+
+## Question 37
+
+> **CASE STUDY — Case Study 37: Vendor Risk (PaaS)**
+> The HR tool is offline for 72 hours. No data was exfiltrated.
+
+Is this considered a "Data Breach" under the GDPR, and what should be the PPM's focus?
+
+- A) Yes, breach of Availability.
+- B) No, it is a "Security Incident" but not a "Breach" because there was no unauthorized access or acquisition.
+- C) Yes, PaaS vendors are Joint Controllers.
+- D) No, HR data is Public.
+
+---
+
+## Question 38
+
+> **CASE STUDY — Case Study 38: Data Destruction**
+> The PPM wants to ensure data is "thoroughly obliterated."
+
+According to the "Protect" phase guidelines for data destruction, which methodology provides the highest "Assurance"?
+
+- A) Overwriting.
+- B) Physical shredding or degaussing.
+- C) Deleting "Primary Keys."
+- D) Selling the servers.
+
+---
+
+## Question 39
+
+> **CASE STUDY — Case Study 39: Right to Object**
+> A user objects to profiling via a "Direct Message."
+
+How must "Social-App" handle this objection according to the "Respond" phase modalities?
+
+- A) Ignore it.
+- B) Honor the objection immediately; objections to direct marketing are absolute and can be made in any form.
+- C) Charge a "Subscription Fee."
+- D) Inform the user they must delete their account.
+
+---
+
+## Question 40
+
+> **CASE STUDY — Case Study 40: Maturity Metrics**
+> The Board asks the PPM to prove that the program is actually "Managed."
+
+Which of the following is the defining characteristic of the "Managed" level compared to the "Defined" level?
+
+- A) Presence of "Fully Documented" procedures.
+- B) The use of "Quantitative Metrics" and "Regular Effectiveness Reviews" of the controls in place.
+- C) Transition to "Strictly Centralized."
+- D) Elimination of all incidents.
+
