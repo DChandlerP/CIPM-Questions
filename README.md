@@ -558,3 +558,567 @@ Which of the following is the defining characteristic of the "Managed" level com
 - C) Transition to "Strictly Centralized."
 - D) Elimination of all incidents.
 
+
+---
+
+## Question 41
+
+> **CASE STUDY — Case Study 41: Deepfakes**
+> The PPM is concerned that virtual characters could be classified as "Deepfakes."
+
+According to the "Protect" phase guidelines for new technologies, what is a "Deepfake" and what control is recommended?
+
+- A) A corrective control.
+- B) It is the use of AI to manipulate media; the AI system should inform users they are interacting with AI.
+- C) A detective control.
+- D) A form of encryption.
+
+---
+
+## Question 42
+
+> **CASE STUDY — Case Study 42: Privacy Notices**
+> The PPM suggests a "Layered Approach."
+
+According to the "Respond" phase design solutions, what are the components of a Layered Privacy Notice?
+
+- A) A single 25-page PDF.
+- B) A "Short Notice" (key details), a "Full Notice" (comprehensive), and potentially "Just-in-Time."
+- C) A notice only in Settings.
+- D) Implied Rules.
+
+---
+
+## Question 43
+
+> **CASE STUDY — Case Study 43: Second-Party Audits**
+> The PPM decides to conduct a Second-Party Audit.
+
+What is the primary purpose of a Second-Party Audit in this context?
+
+- A) Help Global-Pay achieve Level 5.
+- B) Provide "Evidence of Compliance" with the contractual and regulatory privacy protections.
+- C) Replace SCCs.
+- D) Claim Assurance.
+
+---
+
+## Question 44
+
+> **CASE STUDY — Case Study 44: Data Mapping (RoPA)**
+> Sales Team is storing Credit Card Numbers in a "Personal OneNote file."
+
+In the "Assess" phase, how should the PPM address this "Shadow IT" data flow in the RoPA?
+
+- A) Exclude it.
+- B) Document the unauthorized data flow, identify the risks, and implement a "Corrective Control."
+- C) Classify as Backup.
+- D) Ignore it.
+
+---
+
+## Question 45
+
+> **CASE STUDY — Case Study 45: Phishing Awareness**
+> The employee had received "Privacy Training" three months prior.
+
+According to the Verizon study and NIST guidelines, what is the most effective way to reduce "Phishing Susceptibility"?
+
+- A) Increasing video length.
+- B) Implementing "Security Awareness Training" that includes simulated phishing attacks.
+- C) Decentralized Model.
+- D) Administrative Fee.
+
+---
+
+## Question 46
+
+> **CASE STUDY — Case Study 46: Data Subject Identifiers**
+> The call center agent asks for SSN and Passport Photo to verify identity.
+
+According to the GDPR Article 12 and "Respond" phase modalities, what is the best approach for verification?
+
+- A) Collect all identifiers.
+- B) Use "All reasonable efforts" to verify but avoid collecting excessive additional data.
+- C) Refuse the request.
+- D) Move to Marketing.
+
+---
+
+## Question 47
+
+> **CASE STUDY — Case Study 47: Data Retention in M&A**
+> "Small-App" has kept data since 2012. "Tech-Giant" deletes after 3 years.
+
+In the "Assess" and "Protect" phase transition of this merger, what should the PPM recommend?
+
+- A) Keep data indefinitely.
+- B) Implement the retention schedule immediately, as data should only be kept for the length of time needed.
+- C) Sell legacy data.
+- D) Move to Backup.
+
+---
+
+## Question 48
+
+> **CASE STUDY — Case Study 48: Sensitive Data**
+> They plan to collect Precise Geolocation.
+
+Under the Virginia CDPA, what is the required consent model for sensitive data?
+
+- A) Opt-Out.
+- B) An "Opt-In" model where the controller must obtain the consumer's consent.
+- C) Self-Regulated.
+- D) No consent required.
+
+---
+
+## Question 49
+
+> **CASE STUDY — Case Study 49: Privacy Dashboard**
+> They decide to build a Privacy Dashboard.
+
+According to the WP29 and the "Respond" phase design solutions, why is a dashboard an effective tool?
+
+- A) Because it ensures that access to privacy info is "Intuitive" and encourages users to "Engage."
+- B) Automatic Maturity Level 5.
+- C) Hide Right to Erasure.
+- D) Replace DPO.
+
+---
+
+## Question 50
+
+> **CASE STUDY — Case Study 50: CFO Role**
+> The CFO is hesitant to release funds.
+
+According to the "Respond" phase stakeholder roles, what is the CFO's primary responsibility here?
+
+- A) Leading investigation.
+- B) Calculating and managing the "bottom-line impact" and allocating resources.
+- C) Writing notification letter.
+- D) Determining fines.
+
+---
+
+## Question 51
+
+> **CASE STUDY — Case Study 51: Vendor Liability**
+> FastShip has been using customer addresses to build its own database.
+
+To maintain compliance and limit liability under the CCPA, what must RetailPro ensure is included in the written contract with FastShip?
+
+- A) Require DPO appointment.
+- B) A provision that explicitly limits FastShip's processing to the specific business purpose defined in the contract.
+- C) Do Not Sell link.
+- D) Reputational Liability clause.
+
+---
+
+## Question 52
+
+> **CASE STUDY — Case Study 52: Data Minimization in AI**
+> The system collects high-resolution raw images.
+
+In aligning this AI project with the "Data Minimization" principle, what should be the primary recommendation?
+
+- A) Continue collecting.
+- B) Implement a mechanism to extract only necessary facial templates and delete raw images.
+- C) Represent as human.
+- D) Self-Regulated Model.
+
+---
+
+## Question 53
+
+> **CASE STUDY — Case Study 53: Training Needs Analysis**
+> Current training is generic. DSAR handling lags in Europe.
+
+According to the "Sustain" phase best practices, what is the most effective way to modify the training program?
+
+- A) Increase frequency of generic video.
+- B) Create specific, role-based training that contextualizes privacy principles into tangible operations.
+- C) Implement Fee.
+- D) Hire Change Management expert.
+
+---
+
+## Question 54
+
+> **CASE STUDY — Case Study 54: Public Relations Role**
+> PR wants to frame the incident as state-sponsored.
+
+What is the primary responsibility of the PR and Communications stakeholders?
+
+- A) Lead forensic investigation.
+- B) Ensure message accuracy and consistency while minimizing leaks.
+- C) Negotiate payments.
+- D) Implement Detective Controls.
+
+---
+
+## Question 55
+
+> **CASE STUDY — Case Study 55: PTA**
+> The portal will involve significant "merging and matching."
+
+Under the U.S. E-Government Act of 2002, which factor triggers the mandatory requirement for a full PIA?
+
+- A) Two-Factor Authentication.
+- B) The project involves significant merging, matching, or manipulation of multiple databases containing PII.
+- C) Shared-Cost.
+- D) Open-Source.
+
+---
+
+## Question 56
+
+> **CASE STUDY — Case Study 56: Right to Erasure in Backups**
+> Data remains on "Backup Archives" scheduled for deletion in six months.
+
+According to the operational guidelines for the "Right to be Forgotten," how should the organization handle the backup archives?
+
+- A) Deny request.
+- B) Ensure the data is erased from the live system and put in place measures to ensure it is not restored.
+- C) Charge fee.
+- D) Move to vendor.
+
+---
+
+## Question 57
+
+> **CASE STUDY — Case Study 57: Metrics for Currency and Value**
+> The Board is concerned about the efficiency of the "Respond" phase.
+
+Which metric best represents "Currency and Value" in tracking the performance of the "Respond" phase?
+
+- A) Total privacy analysts.
+- B) The average investigation and response time for DSARs.
+- C) List of AUP signers.
+- D) Budget spent.
+
+---
+
+## Question 58
+
+> **CASE STUDY — Case Study 58: Access Control Review**
+> 50 former employees still have active "Privileged Accounts."
+
+Which component is essential for a robust access control process to ensure "Accountability"?
+
+- A) Shared Admin accounts.
+- B) Implementation of a formal logical access process for granting and removing user IDs tied to roles.
+- C) Elimination of 2FA.
+- D) Implied Rules.
+
+---
+
+## Question 59
+
+> **CASE STUDY — Case Study 59: Omnibus vs. Sectoral**
+> DataBridge processes health data and credit records.
+
+Based on the "Sectoral Approach" in the U.S., which combination of laws is DataBridge likely subject to?
+
+- A) GDPR and APEC.
+- B) HIPAA for health records and GLBA for financial/credit transactions.
+- C) LGPD.
+- D) Privacy Act of 1974.
+
+---
+
+## Question 60
+
+> **CASE STUDY — Case Study 60: Data Warehousing Risks**
+> Consolidation involves "Significant merging and matching."
+
+What should be the PPM's first step when a project involves "Significant merging and matching"?
+
+- A) Delete data warehouse.
+- B) Trigger a PIA or DPIA to identify and mitigate privacy risks early.
+- C) Decentralize.
+- D) K-Anonymity.
+
+---
+
+## Question 61
+
+> **Case Study 61: Handling Vexatious Requests**
+> Objections are sent via "Direct Messages".
+
+**According to the "Respond" phase modalities, how should MegaSocial handle these objections?**
+
+- A) Ignore if not on Dashboard.
+- B) Train staff to identify and document valid verbal or written objections, regardless of channel.
+- C) Charge fee.
+- D) Self-Regulated Model.
+
+---
+
+## Question 62
+
+> **Case Study 62: End-to-End Security**
+> Marketing wants a "Backup Copy". Privacy Engineer argues this violates "End-to-End Security".
+
+**According to the foundational principles of PbD, what is meant by "End-to-End Security"?**
+
+- A) Security only in Assess phase.
+- B) Strong security measures that are essential to privacy from the start to the finish of the data life cycle.
+- C) Physical Controls.
+- D) Joint Controller.
+
+---
+
+## Question 63
+
+> **Case Study 63: Third-Party Audits**
+> AdNetwork is under a "Consent Decree".
+
+**What is a defining characteristic of a "Third-Party Audit" as described in the "Sustain" phase?**
+
+- A) Conducted by internal team.
+- B) Conducted by independent outside sources, typically under a consent decree or regulatory request.
+- C) Focuses on Marketing.
+- D) Replaces PbD.
+
+---
+
+## Question 64
+
+> **Case Study 64: Sufficient Guarantees**
+> TechSolutions must ensure DataCrunch provides "Sufficient Guarantees."
+
+**What is the focus of "Sufficient Guarantees"?**
+
+- A) Lowest price.
+- B) Getting proof of the processor's competence via assurance mechanisms (assessments/certs).
+- C) Location in Self-Regulated country.
+- D) Joint Controller.
+
+---
+
+## Question 65
+
+> **Case Study 65: Just-in-Time Notices**
+> Product manager argues another pop-up will annoy users.
+
+**What is a "Just-in-Time" notice?**
+
+- A) Notice sent 30 days later.
+- B) A type of layered approach provided immediately before the data is collected.
+- C) Notice only for DSAR.
+- D) ROI summary.
+
+---
+
+## Question 66
+
+> **Case Study 66: Maturity Level 5 (Optimized)**
+> The program is proactively "Innovating" privacy protections.
+
+**Which statement best describes Maturity Level 5 (Optimized)?**
+
+- A) Fully documented procedures.
+- B) Reviews conducted.
+- C) Ad Hoc.
+- D) The organization's privacy practices are fully integrated into its business processes and are continuously improved.
+
+---
+
+## Question 67
+
+> **Case Study 67: Union Leadership Role**
+> The CEO argues union involvement will complicate strategy.
+
+**What is the primary role of Union Leadership during a breach?**
+
+- A) Lead forensic investigation.
+- B) Communication and coordination, including providing members with timely status updates.
+- C) Calculate intangible costs.
+- D) Provide Adequacy.
+
+---
+
+## Question 68
+
+> **Case Study 68: Data Flow Diagrams**
+> Engineering lead argues they only need to map APIs, not Actors.
+
+**What is the purpose of "Diagramming Actors"?**
+
+- A) Identify badges.
+- B) To visually lay out the high-level environment, including who interacts with the data, to identify risks.
+- C) Replace mission statement.
+- D) Calculate R-Squared.
+
+---
+
+## Question 69
+
+> **Case Study 69: Right of Access**
+> IT refuses to disclose source citing "Commercial Secrecy."
+
+**Under GDPR Article 15, is EuroShop required to disclose the source of the data?**
+
+- A) No, Commercial Secrecy exemption.
+- B) Yes, the data subject is entitled to receive any available information as to the source.
+- C) No, only Special Categories.
+- D) Yes, if fee paid.
+
+---
+
+## Question 70
+
+> **Case Study 70: Lunch and Learn ROI**
+> Sessions on "How to protect your family".
+
+**Why is engaging employees on "Personal Privacy" topics effective?**
+
+- A) Collect Family PHI.
+- B) It makes employees more aware of privacy controls in the office and engages their interest.
+- C) Moves to Level 5.
+- D) Replaces Detective Controls.
+
+---
+
+## Question 71
+
+> **Case Study 71: Maturity Levels (Ad Hoc)**
+> Processes are "Informal, incomplete, and inconsistently applied".
+
+**What is the defining characteristic of "Maturity Level 1 (Ad Hoc)"?**
+
+- A) Fully documented.
+- B) Procedures or processes are generally informal, incomplete, and inconsistently applied.
+- C) Regular reviews.
+- D) Continuous improvement.
+
+---
+
+## Question 72
+
+> **Case Study 72: Privacy by Default**
+> Marketing argues "Privacy as Default" is too restrictive.
+
+**Under GDPR Article 25, what does the "Default" obligation apply to?**
+
+- A) Salary Cost.
+- B) Amount of data collected, extent of processing, period of storage, and accessibility.
+- C) Reputational Liability.
+- D) Physical Controls.
+
+---
+
+## Question 73
+
+> **Case Study 73: Handling Complaints**
+> Complaint sent via "Public Post on LinkedIn."
+
+**Why must employees be trained to identify complaints across multiple channels?**
+
+- A) To Anonymize.
+- B) Because requests and complaints may be submitted in a variety of ways (email, phone, social media).
+- C) Charge fee.
+- D) Move to Level 1.
+
+---
+
+## Question 74
+
+> **Case Study 74: Trend Analysis**
+> Significant "Upward Tendency" in reported incidents.
+
+**Why might a rising number of reported incidents be considered a "Positive" indicator?**
+
+- A) Controls failing.
+- B) It may indicate that "Privacy Awareness Training" is working and employees are becoming more vigilant.
+- C) Reached Level 5.
+- D) Reduce Insurance.
+
+---
+
+## Question 75
+
+> **Case Study 75: Insurance Coverage**
+> Carrier warns about "Prior Incidents".
+
+**What should a company consider when looking at cyber-liability insurance?**
+
+- A) Replaces SCCs.
+- B) Policy should be reviewed for specific timing obligations and coordinate with carriers.
+- C) Only for Ad Hoc.
+- D) Grants Adequacy.
+
+---
+
+## Question 76
+
+> **Case Study 76: Data Stewards**
+> PPM identifies need for Data Stewards.
+
+**What is the primary responsibility of a "Data Steward"?**
+
+- A) Calculating bottom-line.
+- B) Serving as an SME who is accountable for day-to-day management of data and meaning.
+- C) Writing Mission Statement.
+- D) First Responder.
+
+---
+
+## Question 77
+
+> **Case Study 77: Destruction**
+> PPM insists on Degaussing.
+
+**Which are two ways of "Electronically Destroying Data"?**
+
+- A) Shredding and Melting.
+- B) Overwriting and Degaussing.
+- C) Anonymization.
+- D) Data Mapping.
+
+---
+
+## Question 78
+
+> **Case Study 78: Data Portability Misuse**
+> PPM concerned about transfer to unverified startup.
+
+**What is a primary goal of the "Right to Data Portability"?**
+
+- A) Charge fees.
+- B) Empower data subjects and prevent "Lock-in" by fostering innovation.
+- C) Force IP sharing.
+- D) Move to Level 2.
+
+---
+
+## Question 79
+
+> **Case Study 79: Privacy Badges**
+> Marketing argues badges are "Childish".
+
+**Why are badges and slogans used in an awareness program?**
+
+- A) Identify terminations.
+- B) They are an excellent way to promote a program and reinforce memory retention.
+- C) Replace RoPA.
+- D) Calculate R-Squared.
+
+---
+
+## Question 80
+
+> **Case Study 80: Board Role**
+> Board asks about "Industry Standard of Care".
+
+**What is the primary responsibility of the Board of Directors during a data breach?**
+
+- A) Leading investigation.
+- B) Ensuring the company is well run and properly handles risk exposure.
+- C) Writing Mission Statement.
+- D) Deciding slogans.
+
+---
+
+
