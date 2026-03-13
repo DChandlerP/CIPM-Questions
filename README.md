@@ -1620,5 +1620,186 @@ What should be the PPM's first step when a project involves "Significant merging
 - D) Money saved.
 
 ---
+# CIPM Mock Exam — Questions 121–140
+
+---
+
+**Q121.** Privacy Maturity Model has how many levels?
+
+- A. Three.
+- B. Four.
+- C. Five.
+- D. Six.
+
+---
+
+**Q122.** Level described as "informal, incomplete"?
+
+- A. Defined.
+- B. Managed.
+- C. Repeatable.
+- D. Ad Hoc.
+
+---
+
+**Q123.** Difference between Training and Awareness?
+
+- A. IT vs HR.
+- B. Training teaches skills; Awareness focuses attention.
+- C. Annual vs Bi-annual.
+- D. None.
+
+---
+
+**Q124.** Engaging employees on Personal Privacy topics helps:
+
+- A. Collect history.
+- B. Get them to give up time for training.
+- C. Reach Level 5.
+- D. Replace AUP.
+
+---
+
+**Q125.** Right to delete personal data called:
+
+- A. Rectification.
+- B. Restriction.
+- C. Erasure.
+- D. Portability.
+
+---
+
+**Q126.** Purpose of Right to Data Portability?
+
+- A. Charge customers.
+- B. Empower subjects and prevent "Lock-in".
+- C. Force PDF.
+- D. Level 3.
+
+---
+
+**Q127.** Incident vs Breach?
+
+- A. Identical.
+- B. Incident is potential; Breach involves unauthorized access/acquisition.
+- C. Notification diff.
+- D. Tier 1 vs 2.
+
+---
+
+**Q128.** Why involve attorneys immediately?
+
+- A. Ignore media.
+- B. Protect investigation by attorney-client privilege.
+- C. Lead forensic.
+- D. Grant Adequacy.
+
+---
+
+**Q129.** Chief role of PR during breach?
+
+- A. Wipe devices.
+- B. Oversee press releases and message accuracy.
+- C. Audit HR.
+- D. Calculate ROI.
+
+---
+
+**Q130.** Surges in customer attrition and damage to brand equity are examples of what type of costs?
+
+- A. Internal Costs.
+- B. Legal Costs.
+- C. Intangible Costs.
+- D. Remediation Costs.
+
+---
+
+**Q131.** What is the purpose of "Tabletop Exercises" in incident response training?
+
+- A. To physically move servers to a new data center.
+- B. To simulate incident response scenarios and train the team on their roles.
+- C. To calculate the R-squared value of a metric.
+- D. To provide "Just-in-Time" notice to employees.
+
+---
+
+**Q132.** Governance, Risk, and Compliance (GRC) tools are primarily used to:
+
+- A. Replace the Chief Privacy Officer.
+- B. Automate GRC initiatives and map controls to regulations.
+- C. Encrypt all email communications.
+- D. Create "Deepfakes" for training.
+
+---
+
+**Q133.** Which mechanism allows large multinational companies to adopt a suite of internal rules for transferring personal data globally?
+
+- A. Standard Contractual Clauses (SCCs).
+- B. Binding Corporate Rules (BCRs).
+- C. Adequacy Decisions.
+- D. Self-Regulated Model.
+
+---
+
+**Q134.** Under GDPR Article 22, data subjects have the right to not be subject to a decision based solely on what?
+
+- A. Human intervention.
+- B. Automated processing, including profiling.
+- C. Written requests.
+- D. Their geographic location.
+
+---
+
+**Q135.** What is the primary goal of a Data Retention policy?
+
+- A. To keep data indefinitely for AI training.
+- B. To ensure personal information is retained only for as long as necessary for its stated purpose.
+- C. To reduce the "Salary Cost" of the IT department.
+- D. To move the program to Level 1 (Ad Hoc).
+
+---
+
+**Q136.** The "Schrems II" decision specifically invalidated the adequacy decision for which framework?
+
+- A. GDPR.
+- B. EU-U.S. Privacy Shield.
+- C. OECD Guidelines.
+- D. APEC Privacy Framework.
+
+---
+
+**Q137.** Creating and maintaining data inventories is normally the responsibility of which two functions?
+
+- A. Marketing and Sales.
+- B. Privacy and/or IT (with business input).
+- C. Finance and Legal only.
+- D. Public Relations and Union Leadership.
+
+---
+
+**Q138.** "Privacy Professional" is a general term used to describe:
+
+- A. Any member of the privacy team responsible for framework development and reporting.
+- B. Only the Chief Executive Officer.
+- C. Only outside legal counsel.
+- D. Any employee who uses a computer.
+
+---
+
+**Q139.** What is the objective of conducting a "Privacy Workshop" for stakeholders?
+
+- A. To hire new privacy analysts.
+- B. To level the playing field by defining privacy, explaining market expectations, and reducing confusion.
+- C. To implement a centralized governance model immediately.
+- D. To calculate the ROI of pizza for lunch and learn.
+
+---
+
+**Q140.** Under HIPAA, hospitals and clinics are known as:
+
+- A. Financial Institutions.
+- B. Covered Entities.
+- C. Service Providers.
+- D. Data Stewards.
 
 
