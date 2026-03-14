@@ -1802,4 +1802,181 @@ What should be the PPM's first step when a project involves "Significant merging
 - C. Service Providers.
 - D. Data Stewards.
 
+**Q141.** COPPA specifically prohibits online companies from asking for PII from children of what age without verifiable parental consent?
+
+- A. 12 and under.
+- B. 16 and under.
+- C. 18 and under.
+- D. 13 and under.
+
+---
+
+**Q142.** GDPR Article 28 requires controllers to use processors that provide:
+
+- A. The lowest possible price.
+- B. "Sufficient Guarantees" regarding technical and organizational measures.
+- C. Joint ownership of all data.
+- D. A "Self-Regulated" code of practice.
+
+---
+
+**Q143.** The "Protect" phase of the operational life cycle embeds privacy principles and what other management practices?
+
+- A. Information Security management practices.
+- B. Marketing best practices.
+- C. Forensic investigation practices.
+- D. Union negotiation practices.
+
+---
+
+**Q144.** Which U.S. state law provides the most robust consumer rights regarding biometric identifiers?
+
+- A. California CCPA.
+- B. Virginia CDPA.
+- C. Illinois BIPA.
+- D. New York SHIELD Act.
+
+---
+
+**Q145.** According to the WP29, what is a benefit of a "Privacy Dashboard"?
+
+- A. It move the program maturity to Level 5.
+- B. It ensures access to info is intuitive and encourages users to engage with it.
+- C. It automatically grants "Adequacy" to the company.
+- D. It replaces the need for a DPO.
+
+---
+
+**Q146.** What percentage of U.S. organizations experienced a phishing attack in 2020?
+
+- A. 25%.
+- B. 50%.
+- C. 74%.
+- D. 90%.
+
+---
+
+**Q147.** Maturity Level 4 (Managed) is characterized by reviews conducted to assess what?
+
+- A. The salary of the privacy team.
+- B. The effectiveness of the controls in place.
+- C. The number of posters in the breakroom.
+- D. The thickness of the privacy manual.
+
+---
+
+**Q148.** ROI analysis provides a quantitative measurement of:
+
+- A. Employee morale.
+- B. Benefits (loss prevention) and costs of privacy controls.
+- C. The speed of the IT network.
+- D. The number of LinkedIn posts.
+
+---
+
+**Q149.** Which analysis method shows trends in an "upward or downward tendency"?
+
+- A. Noise analysis.
+- B. Cyclical component analysis.
+- C. Time series analysis.
+- D. ROI analysis.
+
+---
+
+**Q150.** The "Respond" phase of the operational life cycle aims to reduce organizational risk and do what?
+
+- A. Increase marketing revenue.
+- B. Bolster compliance to regulations.
+- C. Eliminate the need for IT.
+- D. Achieve Maturity Level 1.
+
+---
+
+**Q151.** To whom should a DPO report according to GDPR Article 38?
+
+- A. The IT Director.
+- B. The highest management level of the controller or processor.
+- C. The local law enforcement agency.
+- D. The Marketing department.
+
+---
+
+**Q152.** In the interconnected world described in the Preface, data is metaphorically as valuable as what?
+
+- A. Water.
+- B. Gold.
+- C. Oil.
+- D. Land.
+
+---
+
+**Q153.** Data owners are typically leads of business functions responsible for a data asset. What is their accountability level?
+
+- A. Operational level.
+- B. Managerial level.
+- C. Administrative level.
+- D. Third-party level.
+
+---
+
+**Q154.** Why is it difficult to negotiate contractual terms with "Public Cloud" providers?
+
+- A. Because they do not have legal departments.
+- B. Because standardized offers are often a feature of these services.
+- C. Because they are located in countries with no privacy laws.
+- D. Because they are not subject to the GDPR.
+
+---
+
+**Q155.** A "Self-Regulated Model" is characterized by companies using what?
+
+- A. Omnibus laws enforced by the government.
+- B. A code of practice by a group of companies known as industry bodies.
+- C. No rules at all.
+- D. International treaties.
+
+---
+
+**Q156.** Most data subjects have the right to change incorrect info. In most cases under HIPAA, these changes must be implemented within how many days?
+
+- A. 30 days.
+- B. 45 days.
+- C. 60 days.
+- D. 90 days.
+
+---
+
+**Q157.** A "Just-in-time" notice is provided when?
+
+- A. 30 days after a breach.
+- B. Immediately before data is collected (e.g., location tracking request).
+- C. In the annual newsletter.
+- D. Upon request via a DSAR.
+
+---
+
+**Q158.** In InfoSec, "Availability" means information is what?
+
+- A. Limited to authorized parties.
+- B. Authentic and complete.
+- C. Readily accessible to authorized users.
+- D. Traceable to the owner.
+
+---
+
+**Q159.** What is the difference between a "Vision" and a "Mission" statement?
+
+- A. The vision is for employees; the mission is for customers.
+- B. The mission describes purpose and ideas succinctly; the vision lays the groundwork for the rest of the program.
+- C. The vision is mandatory; the mission is voluntary.
+- D. There is no difference.
+
+---
+
+**Q160.** Stakeholders identified at the start of a program implementation are often referred to as:
+
+- A. Data Stewards.
+- B. Privacy Champions.
+- C. First Responders.
+- D. Regulators.
 
