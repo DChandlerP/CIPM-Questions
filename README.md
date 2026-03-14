@@ -1980,3 +1980,366 @@ What should be the PPM's first step when a project involves "Significant merging
 - C. First Responders.
 - D. Regulators.
 
+---
+
+**Q161.** The OECD "Collection Limitation" principle states that personal data should be obtained how?
+
+- A. Secretly to avoid user pushback.
+- B. By lawful and fair means and, where appropriate, with knowledge or consent.
+- C. By scraping any public website.
+- D. Only via automated decision-making.
+
+---
+
+**Q162.** Under GDPR, "Tier 1" fines for infringements of principles can be up to how much?
+
+- A. 10 million euros or 2% of annual revenue.
+- B. 20 million euros or 4% of annual revenue.
+- C. $7,500 per violation.
+- D. 50 million reais.
+
+---
+
+**Q163.** As of April 2019, the maximum HIPAA fine per violation category per year for Tier 4 (willful neglect) is:
+
+- A. $100,000.
+- B. $250,000.
+- C. $1.5 million.
+- D. $5 million.
+
+---
+
+**Q164.** In AI data assessments, the "Black Box Effect" refers to what difficulty?
+
+- A. Deleting the training data.
+- B. Understanding or explaining how information is correlated and weighted in a specific process.
+- C. Encrypting the algorithm.
+- D. Hiring AI engineers.
+
+---
+
+**Q165.** Who is accountable for the day-to-day management of data and understands its meaning and use?
+
+- A. Data Owner.
+- B. Data Steward.
+- C. Chief Privacy Officer.
+- D. Internal Auditor.
+
+---
+
+**Q166.** Preparing and publishing the report is part of which phase of the PIA life cycle?
+
+- A. Initiation.
+- B. Performing.
+- C. Follow-up.
+- D. Respond.
+
+---
+
+**Q167.** When possible, privacy professionals should leverage existing reviews for security assurance, such as:
+
+- A. Marketing surveys.
+- B. SOC 1 and SOC 2 audits.
+- C. Employee performance reviews.
+- D. Union voting results.
+
+---
+
+**Q168.** The mechanism officially adopted in 2016 to replace the Safe Harbor Framework was:
+
+- A. GDPR.
+- B. EU-U.S. Privacy Shield.
+- C. SCCs.
+- D. BCRs.
+
+---
+
+**Q169.** The concept of "Adequacy" for cross-border data transfers is based on what principle?
+
+- A. Mutual aid.
+- B. Essential equivalence.
+- C. Self-regulation.
+- D. Lower cost.
+
+---
+
+**Q170.** Which function is most likely to handle sensitive employee data like health info and vetting results?
+
+- A. Marketing.
+- B. Human Resources (HR).
+- C. Procurement.
+- D. Finance.
+
+---
+
+**Q171.** For consent to be valid under the GDPR, the data subject must have the right to withdraw it when?
+
+- A. After 30 days.
+- B. Only if there is a data breach.
+- C. At any time.
+- D. Only via a written letter to the CPO.
+
+---
+
+**Q172.** When a request is complex, an organization can extend the one-month response deadline by how long?
+
+- A. One additional month.
+- B. Two more months.
+- C. 90 days.
+- D. Indefinitely.
+
+---
+
+**Q173.** Which region has a trend of adopting "GDPR-like" laws in recent years?
+
+- A. Only the United States.
+- B. Latin America and Asia.
+- C. Only Canada.
+- D. No other region has followed the GDPR.
+
+---
+
+**Q174.** Considering repercussions, it is imperative that companies integrate breach response into what broader plan?
+
+- A. Marketing Strategy.
+- B. Business Continuity Plan (BCP).
+- C. Annual Tax Return.
+- D. Hiring Plan.
+
+---
+
+**Q175.** The "Internal Audit" team should be considered what to the privacy program?
+
+- A. An enemy.
+- B. An ally and, in a sense, a member of the program.
+- C. A data processor.
+- D. A third-party vendor.
+
+---
+
+**Q176.** Presentation of metrics may need to be adapted based on what?
+
+- A. The color of the website.
+- B. The level of interest, influence, and responsibility of the specific audience (e.g., Board vs. Auditors).
+- C. The weather.
+- D. The current time series noise level.
+
+---
+
+**Q177.** Statistical analysis of metrics focuses on what is left over after trend and cyclical components are accounted for, called:
+
+- A. Primary data.
+- B. Irregular component or "Noise."
+- C. ROI.
+- D. K-Anonymity.
+
+---
+
+**Q178.** Measuring incidents in the month after a training session to explain changes is an example of what type of analysis?
+
+- A. Noise component.
+- B. Cyclical component.
+- C. ROI component.
+- D. R-squared component.
+
+---
+
+**Q179.** Which position usually assists with "tactical" tasks like research and assisting customer support?
+
+- A. Chief Privacy Officer.
+- B. Privacy Analyst.
+- C. Privacy Director.
+- D. Union Steward.
+
+---
+
+**Q180.** Roles that support a "specific privacy process" in certain scenarios (e.g., incident response) are called:
+
+- A. Data Stewards.
+- B. First Responders.
+- C. Privacy Engineers.
+- D. DPOs.
+
+# CIPM Mock Exam — Questions 181–200
+
+---
+
+**Q181.** An example of an AUP for "Guest Wireless Access" applies when?
+
+- A. When an employee is hired.
+- B. When a user agrees to the terms in written or electronic form before gaining access.
+- C. Only during a data breach.
+- D. When the CPO releases the annual budget.
+
+---
+
+**Q182.** Which of the following is a way of "Physically Destroying Data"?
+
+- A. Overwriting.
+- B. Degaussing.
+- C. Shredding, melting, and burning.
+- D. Anonymization.
+
+---
+
+**Q183.** "Maturity level five" in the PMM represents what state?
+
+- A. Ad Hoc.
+- B. Repeatable.
+- C. Managed.
+- D. Optimized.
+
+---
+
+**Q184.** InfoSec defines "Risk" as the combination of an event's probability and its:
+
+- A. Cost.
+- B. Consequence.
+- C. Visibility.
+- D. Duration.
+
+---
+
+**Q185.** Phishing scams typically employ what technique in traditional email attacks?
+
+- A. Encryption.
+- B. Social Engineering.
+- C. Degaussing.
+- D. Physical access.
+
+---
+
+**Q186.** A privacy notice should be considered what kind of statement from an organization to data subjects?
+
+- A. A suggestion.
+- B. A promise.
+- C. A technical control.
+- D. A detective control.
+
+---
+
+**Q187.** The "Layered Approach" to delivery of notices is required by which U.S. law?
+
+- A. HIPAA.
+- B. CCPA.
+- C. GLBA.
+- D. FOIA.
+
+---
+
+**Q188.** While the GDPR sets 16 as the age threshold, it allows individual countries to set it between what ages?
+
+- A. 10 and 12.
+- B. 13 and 16.
+- C. 15 and 18.
+- D. 18 and 21.
+
+---
+
+**Q189.** Signing up for the National Do Not Call (DNC) Registry involves what cost to consumers?
+
+- A. $10 per year.
+- B. $50 one-time fee.
+- C. No charge.
+- D. It is charged to the user's phone bill.
+
+---
+
+**Q190.** Federal agencies are required to disclose records under FOIA unless the request falls under one of how many exemptions?
+
+- A. Three.
+- B. Five.
+- C. Seven.
+- D. Nine.
+
+---
+
+**Q191.** Which law applies to any website operator whose site collects PII from California consumers, regardless of where the operator is located?
+
+- A. FOIA.
+- B. CalOPPA.
+- C. HIPAA.
+- D. FCRA.
+
+---
+
+**Q192.** The right for a data subject to limit the processing of their data to some purposes is called:
+
+- A. Right to Erasure.
+- B. Right to restrict processing.
+- C. Right to Portability.
+- D. Right to Object.
+
+---
+
+**Q193.** If a controller has "reasonable doubt" about a data subject's identity when they exercise a right, the controller should:
+
+- A. Deny the request immediately.
+- B. Request additional information to confirm identity.
+- C. Notify the media.
+- D. Automatically delete the data.
+
+---
+
+**Q194.** An extension of two more months for a DSR is possible under what circumstances?
+
+- A. The PPM is on vacation.
+- B. The request is complex or several requests were received from the same individual.
+- C. The IT department wants to save money.
+- D. The Board of Directors is meeting.
+
+---
+
+**Q195.** A data subject can request erasure if processing was based on consent given by whom?
+
+- A. An employee.
+- B. A child.
+- C. A deceased person.
+- D. A third-party vendor.
+
+---
+
+**Q196.** Using DSARs in litigation or threatened litigation has become common for which group?
+
+- A. CEO candidates.
+- B. Terminated or disciplined employees.
+- C. Stockholders.
+- D. Vendors.
+
+---
+
+**Q197.** PIPEDA defines personal information as information about:
+
+- A. A corporation.
+- B. An identifiable individual.
+- C. A deceased person only.
+- D. Public records.
+
+---
+
+**Q198.** Factors considered in breach scrutiny include whether the organization's conduct was the:
+
+- A. Only cause.
+- B. Proximate cause of damages.
+- C. Intentional cause.
+- D. Corrective cause.
+
+---
+
+**Q199.** Organizations recognize they may be subject to a data incident using the common phrase:
+
+- A. "If it happens."
+- B. "Not if, but when."
+- C. "The Board is ready."
+- D. "Encryption is everything."
+
+---
+
+**Q200.** Failures like a data breach can breed what for an organization?
+
+- A. Opportunity for change and growth.
+- B. Automatic Maturity Level 5.
+- C. Total immunity from future fines.
+- D. A new marketing slogan.
+
+
